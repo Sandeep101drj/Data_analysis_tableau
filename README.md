@@ -11,7 +11,14 @@ This analysis utilizes a detailed dataset containing columns such as:
 - **Product Information**: Product ID, Category, Sub-Category, Product Name.
 - **Financial Metrics**: Sales, Quantity, Discount, Profit.
 
-The main objective of this project is to analyze sales and profit trends, explore the impact of discounts and delivery times, and identify key product and customer insights. By visualizing these aspects, the seller can make informed decisions to maximize profitability, enhance operational efficiency, and improve overall customer satisfaction.
+  
+## Objective
+The goal of this project is to:
+- **Maximize profitability** by identifying key factors influencing sales and profit.
+- **Optimize operations** through strategic decisions related to delivery and inventory.
+- **Enhance customer retention** by understanding and targeting high-value customers.
+- **Improve pricing strategies** by studying the impact of discounts.
+- **Support marketing efforts** through insights on segment-specific and seasonal trends.
 
 ## Business Questions Addressed
 1. **How are sales and profit trends?**
@@ -83,13 +90,7 @@ Analyzing product category contributions among top customers helps the seller id
 ### Interactive Dashboards
 Interactive dashboards were created to allow users to explore data at various levels of detail, from overarching trends to specific product and customer insights.
 
-## Objective
-The goal of this project is to:
-- **Maximize profitability** by identifying key factors influencing sales and profit.
-- **Optimize operations** through strategic decisions related to delivery and inventory.
-- **Enhance customer retention** by understanding and targeting high-value customers.
-- **Improve pricing strategies** by studying the impact of discounts.
-- **Support marketing efforts** through insights on segment-specific and seasonal trends.
+
 
 ## Conclusion
 The comprehensive analysis provided by this Tableau dashboard equips the seller with the tools to:
